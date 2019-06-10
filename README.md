@@ -15,5 +15,6 @@ Slides and sample code from a PwnTools class taught at Hack@FSCJ on 2018/02/16 b
 
 
 # Presented At:
-* 2018/02/16 - Hack@FSCJ
+* 2019/06/10 - OWASP Jax
 * 2018/06/12 - PyJax
+* 2018/02/16 - Hack@FSCJ
